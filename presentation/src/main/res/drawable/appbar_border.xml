@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="-10dp" android:start="-10dp" android:end="-10dp">
+        <shape>
+            <stroke
+                android:color="@color/navi_nonselect_color"
+                android:width="0.5dp"/>
+            <solid
+                android:color="@color/white"/>
+        </shape>
+    </item>
+</layer-list>
